@@ -1,5 +1,5 @@
 #!/bin/bash
 date
 cal
-echo "AND now SOON IWLL BE GOING TO CONTRIBUTE TO RED HAT COMMUNTIY BY CONTRIBUTING INIT :)" >> /var/www/html/index.html 
+sudo echo "AND now SOON IWLL BE GOING TO CONTRIBUTE TO RED HAT COMMUNTIY BY CONTRIBUTING INIT :)" >> /var/www/html/index.html 
 date
