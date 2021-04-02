@@ -1,4 +1,4 @@
 #!/bin/bash
 cal
-sudo echo "AND now SOON IWLL BE GOING TO CONTRIBUTE TO RED HAT COMMUNTIY BY CONTRIBUTING INIT :)" > /var/www/html/index.html 
+echo "AND now SOON IWLL BE GOING TO CONTRIBUTE TO RED HAT :)" > /var/www/html/index.html 
 date
